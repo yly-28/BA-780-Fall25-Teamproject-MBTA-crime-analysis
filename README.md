@@ -32,6 +32,7 @@ Spatial joins link incidents to these rings, and we analyze trends by **offense 
 - Incidents **cluster between midday and early evening** on weekdays.
 
 ![Citywide Offense Composition by Year](figures/Offense%20Category.png)
+![Year-Over-Year Incidents by Proximity to Stations: 1, 3, 5 Minutes, and Outside](figures/Incidents_by_Proximity.png)
 
 ### **Recommendations**  
 - Focus visible patrols and environmental improvements within the **three-minute walkshed** of high-volume transfer stations.  
