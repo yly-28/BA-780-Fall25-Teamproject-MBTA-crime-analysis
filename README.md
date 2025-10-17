@@ -28,8 +28,10 @@ Spatial joins link incidents to these rings, and we analyze trends by **offense 
 - Citywide crime fell roughly **30–35% during 2020–23** and has only partially rebounded in **2024–25**.  
 - About **40% of incidents** occur within a **five-minute walk** of stations, with the **three-minute ring** carrying the largest share.  
 - **Larceny and theft** are overrepresented near stations compared with the citywide baseline.  
-- Stations on the **Silver and Green lines**—particularly *Park Street*, *Union Park Street*, and *Nubian*—record the highest counts across all rings.  
+- Stations on the **Silver and Green lines**—particularly *Park Street*, *Union Park Street*, and *Nubian*—record the highest counts across all rings. 
 - Incidents **cluster between midday and early evening** on weekdays.
+
+![Citywide Offense Composition by Year](figures/Offense%20Category.png)
 
 ### **Recommendations**  
 - Focus visible patrols and environmental improvements within the **three-minute walkshed** of high-volume transfer stations.  
